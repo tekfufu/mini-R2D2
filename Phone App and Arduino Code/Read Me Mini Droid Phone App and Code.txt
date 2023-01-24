@@ -1,0 +1,21 @@
+Mini Droid App and Code info by Matt Zwarts
+
+Refer to the instructions on the Mini Chopper files section for other details
+
+The Phone app is the Choppy.apk file and is only for Android phones, 
+install the .apk file into your phone files and run to install
+
+The Mini_C1_10P_MZ_Rev_1.ino is the code to install into the arduino Nano
+
+UPDATE: 28/3/2021
+
+Lots of updates on both the code and app
+- stability updates on the app and extra droids and functions added
+- If the bluetooth isn't receiving then swap the code lines 32 and 33, block out is "//" this will flip it in the code
+- code updated to include a new software serial, this was create a large delay in the signal read
+- addition to the code to control the added front arms, periscope, 2-3-2 functions and sound/light reactions
+- stability on the app for loss of bluetooth and general button issues
+- old files archived
+
+Install the Choppy_Rev2.apk on to your android device and then the code Mini_R2_Code_MZ_Rev_2 onto your arduino Nano
+Run the software serial to ensure all signals are being received and should be good to go

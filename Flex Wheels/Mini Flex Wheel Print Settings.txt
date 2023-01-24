@@ -1,0 +1,9 @@
+Print Settings (no supports needed)
+
+Wheel
+PLA+ or similar
+30% infill and 3 walls minimum
+
+Flex Tyre
+I used Flex filament, rubber like filament or similar
+Pretty much print it solid as they are so small
